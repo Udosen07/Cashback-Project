@@ -9,6 +9,8 @@ The **Cashback Project** is a React application designed to manage and display u
 3. **Cash out rewards** either directly or by converting them into promo codes.
 4. **Manage bookings** and track cashback dynamically based on user interactions.
 
+[Live site](https://cashback-project.onrender.com/))
+
 ## Features
 
 - **Earnings Overview**: Displays cashback earned and the current balance.
